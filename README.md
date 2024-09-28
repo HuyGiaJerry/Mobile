@@ -13,5 +13,6 @@ img result BaiTap 25/9
 
 img result BaiTap Thuc Hanh 28/9
 
-![Uploading image.png…]()
 
+
+![img_rsTh_28_9](https://github.com/user-attachments/assets/bf71039a-24b5-4c1b-830a-e914174ef124)
