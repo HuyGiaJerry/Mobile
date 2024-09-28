@@ -10,3 +10,7 @@ img result BaiTap 11/9
 img result BaiTap 25/9
 
 ![image](https://github.com/user-attachments/assets/c3301d78-865b-4ca0-8107-fb8f6f61d1d0)
+
+img result BaiTap Thuc Hanh 28/9
+
+![Uploading image.png…]()
