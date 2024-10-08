@@ -18,3 +18,7 @@ img result BaiTap Thuc Hanh 28/9
 img result BaiTap 2/10 
 
 ![image](https://github.com/user-attachments/assets/cfe30ee2-ce6f-4c61-b095-7c483fc5074c)
+
+img result BaiTap Thuc Hanh 8/10
+
+![image](https://github.com/user-attachments/assets/6d1c8d7e-250b-42c5-b152-588b1bd5146e)
