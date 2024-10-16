@@ -22,3 +22,11 @@ img result BaiTap 2/10
 img result BaiTap Thuc Hanh 8/10
 
 ![image](https://github.com/user-attachments/assets/6d1c8d7e-250b-42c5-b152-588b1bd5146e)
+
+img result BaiTap ngay 16/10
+
+![Screenshot 2024-10-16 095939](https://github.com/user-attachments/assets/eb7ff1b4-e64d-45bd-bcaf-e4c0c125dda3)
+
+![Screenshot 2024-10-16 095955](https://github.com/user-attachments/assets/fd034a5e-58a8-42f6-8222-906a8e410faf)
+
+
