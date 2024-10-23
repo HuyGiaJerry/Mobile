@@ -29,4 +29,9 @@ img result BaiTap ngay 16/10
 
 ![Screenshot 2024-10-16 095955](https://github.com/user-attachments/assets/fd034a5e-58a8-42f6-8222-906a8e410faf)
 
+img result BaiTap ngay 23/10
+
+![image](https://github.com/user-attachments/assets/70af70fa-9ff8-4f48-9449-a451452ac7ab)
+
+
 
