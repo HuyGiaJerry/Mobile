@@ -37,4 +37,7 @@ img result BaiTap Thuc Hanh ngay 24/10
 
 ![formDangNhap24_10](https://github.com/user-attachments/assets/0ee858b5-7e08-49c1-bd24-e65b93d163aa)
 
+img result BaiTap Them Ngay 24/10
+
+![image](https://github.com/user-attachments/assets/c79b898a-e947-4333-a025-cf307668aca8)
 
