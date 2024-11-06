@@ -41,8 +41,12 @@ img result BaiTap Them Ngay 24/10
 
 ![image](https://github.com/user-attachments/assets/c79b898a-e947-4333-a025-cf307668aca8)
 
+
 img result Bai Kiem Tra Ngay 30/10
 
 ![dotNet_test01](https://github.com/user-attachments/assets/c89ece8a-1219-4ac3-a010-28f1457a3c2c)
 
+img result BaiTap TH_N2 Ngay 6/11 
+
+![image](https://github.com/user-attachments/assets/5eb4958c-fd19-42b7-989a-0aa72ec1d115)
 
