@@ -1,76 +1,36 @@
-import { StatusBar } from 'expo-status-bar';
-import {
-  KeyboardAvoidingView,
-  Platform,
-  StyleSheet,
-  Text,
-  TextInput,
-  View,
-  TouchableWithoutFeedback,
-  Keyboard,
-  ScrollView,
-  Button
-} from 'react-native';
+import React, { useState } from 'react';
+import { StyleSheet, TextInput, View,  KeyboardAvoidingView,Platform, Text } from 'react-native';
+import Square from './components/square';
 
-export default function App() {
+
+const Home = () => {
+  
+
   return (
-    <TouchableWithoutFeedback onPress={Keyboard.dismiss}>
-      <KeyboardAvoidingView
-        behavior={Platform.OS === 'ios' ? 'padding' : 'height'}
-        style={styles.container}
-      >
-        <ScrollView contentContainerStyle={styles.scrollView}>
-          <View>
-            <Text style={styles.title}>Đăng nhập</Text>
-            <Text style={styles.subtitle}>Nhập số điện thoại</Text>
-            <Text style={styles.description}>
-              Dùng số điện thoại để đăng nhập hoặc đăng ký tài khoản tại OneHousing Pro 
-            </Text>
-            <TextInput
-              placeholder="Nhập số điện thoại của bạn"
-              style={styles.textInput}
-              keyboardType="phone-pad" // Bàn phím số
-              returnKeyType="done" // Hiển thị nút "Done" trên bàn phím
-            />
-            
-          </View>
-          <Button>abc</Button>
-        </ScrollView>
-      </KeyboardAvoidingView>
-    </TouchableWithoutFeedback>
+    <View style={styles.container}>
+      <Square title="Hello" backgroundColor= "red" />
+      <Square title="Xin chao" backgroundColor= "blue" />
+      <Square title="Sawadikap" backgroundColor= "orange" />
+      <Square title="Ohio" backgroundColor= "purple" />
+      <Square title="Ayongaxeyo" backgroundColor= "green" />
+    </View>
   );
-}
+};
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
-    backgroundColor: '#fff',
+    marginTop: '50',
+    display: 'flex',
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: '20',
+    justifyContent: 'space-between',
+    width: '100%',
+    height: '100%',
+    backgroundColor: '#f123', 
   },
-  scrollView: {
-    flexGrow: 1,
-    paddingHorizontal: 30,
-    paddingTop: 70,
-  },
-  title: {
-    fontSize: 30,
-    fontWeight: '700',
-    marginBottom: 10,
-  },
-  subtitle: {
-    fontSize: 18,
-    fontWeight: '500',
-    marginBottom: 5,
-  },
-  description: {
-    fontSize: 14,
-    color: '#666',
-    marginBottom: 20,
-  },
-  textInput: {
-    height: 40,
-    borderColor: '#000000',
-    borderBottomWidth: 1,
-    marginBottom: 36,
-    marginTop: 50,
-  },
+  
+  
 });
+
+export default Home;
