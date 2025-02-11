@@ -80,5 +80,8 @@ Ví dụ:
 />
 Tóm lại, FlatList là lựa chọn tốt khi bạn cần hiển thị một danh sách tuyến tính đơn giản, trong khi SectionList phù hợp hơn cho các danh sách có cấu trúc phân nhóm phức tạp. Cả hai đều cung cấp hiệu năng tốt và có cơ chế render hiệu quả, nhưng FlatList có thể dễ sử dụng hơn nếu danh sách của bạn không phân nhóm.
 
+Img bai 4 : State 11/2/2025 
+![image](https://github.com/user-attachments/assets/0ad8edde-5020-4d47-b913-2471329bf08c)
+
 
 
