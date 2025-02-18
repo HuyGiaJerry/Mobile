@@ -83,5 +83,7 @@ Tóm lại, FlatList là lựa chọn tốt khi bạn cần hiển thị một d
 Img bai 4 : State 11/2/2025 
 ![image](https://github.com/user-attachments/assets/0ad8edde-5020-4d47-b913-2471329bf08c)
 
+Img bai 5 : OnTap State - ValidateForm 18/2/2025
+![image](https://github.com/user-attachments/assets/b2691d7d-2c7c-4669-badf-ece6b5042536)
 
 
