@@ -86,4 +86,9 @@ Img bai 4 : State 11/2/2025
 Img bai 5 : OnTap State - ValidateForm 18/2/2025
 ![image](https://github.com/user-attachments/assets/b2691d7d-2c7c-4669-badf-ece6b5042536)
 
+Img bai 6 : Navigation 25/2/2025
+![nav_1](https://github.com/user-attachments/assets/0d81a4ca-f25d-4f98-8a7f-4cf66470d8f7)
+![nav_2](https://github.com/user-attachments/assets/69974526-8081-4b6e-abeb-3e4c2da65ae4)
+
+
 
