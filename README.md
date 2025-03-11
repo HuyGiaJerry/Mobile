@@ -95,6 +95,9 @@ Img Bai 7 : Bottom Tab + Stack Tab + Context 4/3/2025
 ![btt2](https://github.com/user-attachments/assets/e6c5111c-22d7-404c-856c-d924ec5b54a3)
 ![btt3](https://github.com/user-attachments/assets/16296ad1-9698-4ce6-a6bf-c4ff5e9c025c)
 
+Img KiemTra 1 : Design 2 screen
+![image](https://github.com/user-attachments/assets/67f43ee1-52af-45a4-99e1-a43002d2389d)
+![image](https://github.com/user-attachments/assets/68e6e276-708e-451d-978a-b4fe0fd9a863)
 
 
 
