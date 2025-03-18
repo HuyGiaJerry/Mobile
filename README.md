@@ -100,4 +100,12 @@ Img KiemTra 1 : Design 2 screen
 ![image](https://github.com/user-attachments/assets/68e6e276-708e-451d-978a-b4fe0fd9a863)
 
 
+Img Bai 9 : AsyncStorage + Stack + Bottom Tab 18/3/2025
+![image](https://github.com/user-attachments/assets/6e5c0ae6-86ca-4cdf-8d9f-0aeb35010e24)
+![image](https://github.com/user-attachments/assets/6b450844-ac0f-442e-9d1f-d214c7b1f653)
+![image](https://github.com/user-attachments/assets/1bac1524-0dfc-48dd-b2e6-bce994be6007)
+
+
+
+
 
