@@ -105,6 +105,17 @@ Img Bai 9 : AsyncStorage + Stack + Bottom Tab 18/3/2025
 ![image](https://github.com/user-attachments/assets/6b450844-ac0f-442e-9d1f-d214c7b1f653)
 ![image](https://github.com/user-attachments/assets/1bac1524-0dfc-48dd-b2e6-bce994be6007)
 
+Img BaiTH 1 : 28/3/2025 Restaurant App 
+![image](https://github.com/user-attachments/assets/13bee893-bb4f-4179-9ed0-f6fa14872fcc)
+![image](https://github.com/user-attachments/assets/1009a1a9-cbe5-45d9-9e88-b2e7a59f00a4)
+![image](https://github.com/user-attachments/assets/f3c60009-6856-4443-80ef-a923db671747)
+![image](https://github.com/user-attachments/assets/c7d6a544-0075-4f1a-ae45-7c0d7f653d93)
+![image](https://github.com/user-attachments/assets/91e01c74-9da9-4b54-a6f2-f0347eb8c130)
+
+
+
+
+
 
 
 
