@@ -113,6 +113,11 @@ Img BaiTH 1 : 28/3/2025 Restaurant App
 ![image](https://github.com/user-attachments/assets/c7d6a544-0075-4f1a-ae45-7c0d7f653d93)
 ![image](https://github.com/user-attachments/assets/91e01c74-9da9-4b54-a6f2-f0347eb8c130)
 
+Img BaiTH 2 : 31/3/2025 Nectar App 
+
+![image](https://github.com/user-attachments/assets/8d5da639-2ab4-4420-81ec-c7e91e8602ff)
+![image](https://github.com/user-attachments/assets/27b63bdc-0c90-496b-9f8b-d0f858a18b68)
+
 
 
 
