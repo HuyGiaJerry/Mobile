@@ -118,6 +118,12 @@ Img BaiTH 2 : 31/3/2025 Nectar App
 ![image](https://github.com/user-attachments/assets/8d5da639-2ab4-4420-81ec-c7e91e8602ff)
 ![image](https://github.com/user-attachments/assets/27b63bdc-0c90-496b-9f8b-d0f858a18b68)
 
+Img Bai 10 : AsyncStorage 1/4/2025
+
+![image](https://github.com/user-attachments/assets/a83fc7af-70f0-4889-9fb0-23d384e03fad)
+![image](https://github.com/user-attachments/assets/605d4410-d631-4a77-977c-64feb7fda3a1)
+![image](https://github.com/user-attachments/assets/6dd1b492-9ebd-499d-923b-ac5f4940f2ea)
+
 
 
 
