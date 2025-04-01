@@ -1,0 +1,7 @@
+***CACH UP CODE LEN GITHUB***
+	B1: MỞ file or folder muốn up lên github
+	B2: git init (khởi tạo )
+	B3: git add .
+	B4: git commit -m "messeage"
+	B5: git remote add origin <URL repository github>
+	B6: git push -u origin master
