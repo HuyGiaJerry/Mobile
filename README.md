@@ -124,6 +124,11 @@ Img Bai 10 : AsyncStorage 1/4/2025
 ![image](https://github.com/user-attachments/assets/605d4410-d631-4a77-977c-64feb7fda3a1)
 ![image](https://github.com/user-attachments/assets/6dd1b492-9ebd-499d-923b-ac5f4940f2ea)
 
+Img TH 3 : 2/4/2025 Nectar App P2 
+
+![a](https://github.com/user-attachments/assets/e90bac66-cefc-4e39-a4e2-eadabdb76a9e)
+![b](https://github.com/user-attachments/assets/e4ba79eb-0a12-4f2a-878c-25e07d75c3af)
+![c](https://github.com/user-attachments/assets/fbae9525-a58f-43cf-adc2-4197ed12227b)
 
 
 
