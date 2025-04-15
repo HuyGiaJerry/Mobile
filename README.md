@@ -137,6 +137,10 @@ Img TH 4 : Nectar App P3
 ![img3](https://github.com/user-attachments/assets/15a6472b-f70d-4421-978c-f0bbb1cd3639)
 ![img4](https://github.com/user-attachments/assets/2ad7c74a-86d1-4205-b6f6-5eeb6fc5eec5)
 
+Img Bai 11 : API 
+
+![a1](https://github.com/user-attachments/assets/4cd32d11-2e2f-44e2-a100-3fb61cd16c6f)
+![a2](https://github.com/user-attachments/assets/338f889c-4dfc-42eb-a1c4-216def46e81b)
 
 
 
